@@ -1,0 +1,19 @@
+{"posts":[
+    {
+        "name": "Nati",
+        "post":"This is my 1#. hello everyone.",
+        "pic":"https://t3.ftcdn.net/jpg/02/22/85/16/360_F_222851624_jfoMGbJxwRi5AWGdPgXKSABMnzCQo9RN.jpg"
+    },
+    {
+        "name": "Moshe",
+        "post":"Greetings. We should do something.",
+        "pic":"https://c8.alamy.com/comp/AKP46Y/angry-indian-man-AKP46Y.jpg"  
+    },
+    {
+        "name":"Maya",
+        "post":"Hi I'm small and am not supposed to use the internet.",
+        "pic":"https://st3.depositphotos.com/1158045/14658/i/1600/depositphotos_146586941-stock-photo-angry-and-annoyed-woman.jpg"
+    }
+
+]
+}
